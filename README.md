@@ -25,3 +25,9 @@ Created by [Jay Taylor](http://jaytaylor.com/) and used by [Gigawatt](http://gig
 #### License
 
 Permissive MIT license, see the [LICENSE](LICENSE) file for more information.
+
+### Related packages
+
+See also:
+
+* https://github.com/hashicorp/go-multierror
