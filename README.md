@@ -12,7 +12,7 @@ Example use case:
 
 Merging a slice of potential errors into either `nil` or a single concatenated error.
 
-Created by [Jay Taylor](http://jaytaylor.com/) and used by [Gigawatt](http://gigawatt.io/).
+Created by [Jay Taylor](https://jaytaylor.com/) and used by [Gigawatt](https://gigawatt.io/).
 
 ### Requirements
 
