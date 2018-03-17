@@ -8,7 +8,7 @@ import (
 func Test_MergeEmpty(t *testing.T) {
 	result := Merge([]error{})
 	if result != nil {
-		t.Error("Expected []error{} to produce `nil', but instead got: %s", result)
+		t.Errorf("Expected []error{} to produce `nil', but instead got: %s", result)
 	}
 }
 
